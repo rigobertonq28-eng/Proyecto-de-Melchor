@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EinRedMesh.API/EinRedMesh.API.csproj" />
+  <Project Path="EinRedMesh.Core/EinRedMesh.Core.csproj" />
+  <Project Path="EinRedMesh.Data/EinRedMesh.Data.csproj" />
+</Solution>
